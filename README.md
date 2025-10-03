@@ -264,7 +264,7 @@
     </div>
     
     <div class="footer">
-        <strong>Frontier Founder OS: The Governed Agent</strong> • Framework by Dorian Cougias • Commercial packaging proposal<br>
+        <strong>Frontier Founder OS: The Governed Agent</strong> • Framework by George Martins • Commercial packaging proposal<br>
         Contact: dorianc@moxywolf.com • Distribution: MoxyWolf webinars + Substack + founder networks
     </div>
 </body>
